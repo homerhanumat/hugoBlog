@@ -16,7 +16,7 @@ image_preview = "tigerstats.png"
 tags = ["R-packages"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://statistics.rainandrhino.org/tigerstats"
+external_link = "https://homerhanumat.github.io/tigerstats"
 
 # Does the project detail page use math formatting?
 math = false

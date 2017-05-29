@@ -19,7 +19,7 @@ url_code = "https://github.com/homerhanumat/r-notes"
 
 [[url_custom]]
 name = "The Text"
-url = "http://statistics.rainandrhino.org/r-notes/"
+url = "https://homerhanumat.github.io/r-notes/"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
