@@ -9,6 +9,7 @@ tags:
   - Github
   - Hugo
   - submodules
+  - Meta-blogging
 ---
 
 My primary technical blog is hosted by Github through my User repository (`homerhanumat.github.io`).  Recently I switched my generator from Jekyll to Hugo.
