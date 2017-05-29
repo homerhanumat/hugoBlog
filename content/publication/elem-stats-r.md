@@ -13,7 +13,7 @@ title = "Elementary Statistics with R"
 url_code = "https://github.com/homerhanumat/elemStats"
 url_dataset = ""
 url_pdf = ""
-url_project = "http://statistics.georgetowncollege.edu"
+url_project = "http://statistics.georgetowncollege.edu/index.html"
 url_slides = ""
 url_video = ""
 
