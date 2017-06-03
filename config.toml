@@ -1,5 +1,5 @@
 baseurl = "https://homerhanumat.github.io/"
-title = "Academic Site"
+title = "HSW Academic"
 copyright = "&copy; 2017 Homer White"
 theme = "hugo-academic"
 enableEmoji = true

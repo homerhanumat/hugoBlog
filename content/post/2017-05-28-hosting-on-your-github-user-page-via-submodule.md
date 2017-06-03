@@ -31,7 +31,7 @@ touch .nojekyll  # so Github will not attempt to serve the site with Jekyll
 git commit -am 'first commit in submodule'
 git push
 cd ..
-rm -rf folder public
+rm -rf public
 git commit -am 'deleting folder'
 git submodule add https://github.com/username/username.github.io.git public
 git commit -am 'adding submodule'
