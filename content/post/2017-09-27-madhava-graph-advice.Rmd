@@ -66,7 +66,7 @@ First we'll think about the graph.  Since it is made from functions in the **ggp
 library(ggplot2)
 ```
 
-Now suppose that the value of the parameter `n` is 10.  Then by the time you get to making the graph you'll have the terms:
+Now suppose that the value of the parameter `n` is 10.  Then by the time you get around to making the graph you'll have the terms:
 
 ```{r echo=FALSE}
 n <- 10
@@ -147,7 +147,7 @@ The outline for this part of the task looked  like:
 
 At each step in above process, we will need to store our sum in the `results` vector, so that it isn't lost.
 
-The natural way to accomplish the above task is to use a `for`-loop in whihc we iterate by index and store results.  The outline of such a loop is:
+The natural way to accomplish the above task is to use a `for`-loop in which we iterate by index and store results.  The outline of such a loop is:
 
 ```{r eval=FALSE}
 results <- numeric()
