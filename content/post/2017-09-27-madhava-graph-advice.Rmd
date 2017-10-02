@@ -150,7 +150,7 @@ At each step in above process, we will need to store our sum in the `results` ve
 The natural way to accomplish the above task is to use a `for`-loop in which we iterate by index and store results.  The outline of such a loop is:
 
 ```{r eval=FALSE}
-results <- numeric()
+results <- numeric(n)
 for ( i in 1:n ) {
   
   results[i] <- the sum of the first i terms
