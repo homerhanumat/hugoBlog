@@ -6,10 +6,10 @@ slug: hosting-on-your-github-user-page-via-submodule
 categories: []
 ghcommentid: 3
 tags:
-  - Github
-  - Hugo
-  - submodules
-  - Meta-blogging
+  - "github"
+  - "hugo"
+  - "submodules"
+  - "meta-blogging"
 ---
 
 My primary technical blog is hosted by Github through my User repository (`homerhanumat.github.io`).  Recently I switched my generator from Jekyll to Hugo.

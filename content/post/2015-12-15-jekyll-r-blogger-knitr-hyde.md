@@ -1,7 +1,7 @@
 +++
 date = "2015-12-15T20:00:00"
 draft = false
-tags = ["knitr", "Jekyll", "Meta-blogging"]
+tags = ["knitr", "jekyll", "meta-blogging"]
 aggregators = ["R-bloggers"]
 title = "An Easy Start with Jekyll, for R-Bloggers"
 math = false

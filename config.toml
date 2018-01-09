@@ -18,6 +18,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
   sitename = "Homer's Academic Blog"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  aggregator = "aggregators"
+  
 [[menu.main]]
     name = "Home"
     url = "/"

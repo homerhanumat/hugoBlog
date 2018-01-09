@@ -1,7 +1,7 @@
 +++
 date = "2016-03-11T18:00:00"
 draft = false
-tags = ["R Studio Addins", "Lattice", "Tech Notes"]
+tags = ["rstudio", "lattice", "tech notes"]
 title = "Installing the Addinplots Package"
 math = false
 summary = """

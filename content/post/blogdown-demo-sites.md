@@ -1,7 +1,7 @@
 +++
 date = "2017-06-05T20:00:00"
 draft = false
-tags = ["blogdown", "Hugo", "Meta-blogging"]
+tags = ["blogdown", "hugo", "meta-blogging"]
 aggregators = [""]
 title = "Demo Sites for Blogdown-ified Hugo Themes"
 math = false

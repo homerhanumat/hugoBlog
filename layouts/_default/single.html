@@ -5,6 +5,13 @@
 
   <div id=sub-header>
     {{ .Params.author }} · {{ .Date.Format (.Site.Params.dateform | default "2006/01/02") }} · {{ .ReadingTime }} minute read
+    {{ if .Params.tags }}
+      <br>
+      <i class="fa fa-tags"> </i>
+      {{ range .Params.tags }}
+        <a  href="{{ "/tags/" | absURL }}{{ . | urlize }}">{{ . }}</a>
+      {{ end }}
+    {{ end }}
   </div>
 {{ end }}
   <div class="entry-content">

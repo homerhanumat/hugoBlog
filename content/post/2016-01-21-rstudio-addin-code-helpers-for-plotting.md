@@ -1,7 +1,7 @@
 +++
 date = "2016-01-21T18:00:00"
 draft = false
-tags = ["R Studio Addins", "Lattice", "R-bloggers"]
+tags = ["rstudio addins", "lattice"]
 title = "RStudio Addin Code-Helpers for Plotting"
 math = false
 summary = """

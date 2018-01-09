@@ -1,7 +1,7 @@
 +++
 date = "2015-12-19T20:00:00"
 draft = false
-tags = ["LaTeX", "R Studio", "Tech Notes"]
+tags = ["latex", "rstudio", "tech notes"]
 title = "Notes on LaTeX Installation for R Studio"
 math = false
 ghcommentid = 2
